@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppICE</string>
+    <string name="enter_userid">Enter UserId</string>
+    <string name="userid">UserId</string>
+    <string name="submit_variable">Submit Variable</string>
+    <string name="enter_value">Enter Value</string>
+    <string name="variable_value">Variable Value</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="variable_name">Variable Name</string>
+    <string name="submit_event">Submit Event</string>
+    <string name="attribute_value">Attribute Value</string>
+    <string name="attribute_name">Attribute Name</string>
+    <string name="event_name">Event Name</string>
+    <string name="enter_event_name">Enter Event Name</string>
+</resources>
